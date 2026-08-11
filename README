@@ -1,0 +1,8 @@
+# pip install google-genai ddgs python-dotenv streamlit
+
+
+# TO RUN MAIN PY
+# python main.py
+
+# TO RUN STREAMLIT APP
+# python -m streamlit run app.py
